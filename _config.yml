@@ -1,19 +1,19 @@
 # Site settings
-title: Lokmont
+title: Tiramisu
 description: Lokmont is a responsive simple theme for Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://2434666290.github.io/" # the subpath of your site, e.g. /blog
 url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: 112.jpg
-hero-title: Welcome to Lokmont
-hero-description: A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.
+hero-title: Welcome to Li_Blog
+hero-description: Attitude frist，then capability works.
 
 # Author - Creator
-author-name: Ben Campbell
+author-name: Li Haopeng
 author-image: 10.jpg
-about-author: My name is Ben Campbell. I'm an actor and a musician. Retro wolf banjo succulen tsgoch ujang tumeric hammock offal.
-author-email: help.example@gmail.com
+about-author: My name is Li Haopeng. I'm a person who loves hamburgs and basketball.
+author-email: lhp2434666290@gmail.com
 author-twitter: https://twitter.com/
 author-facebook: https://twitter.com/
 author-instagram: https://www.instagram.com/
