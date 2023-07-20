@@ -6,11 +6,11 @@ image: 12.jpg
 
 My name is Li Haopeng. 
 
-LOL World's First Middle Single！
+LOL World's First Mid！
 
 Favorite Burger！
 
-Best Basketball Defender！Best Basketball Scorer！
+Best Basketball Scorer！
 
 MVP!MVP!MVP!
 
