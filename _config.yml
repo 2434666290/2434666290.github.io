@@ -40,7 +40,7 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 disqus-identifier: Tiramisu # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
-markdown: markdown
+markdown: kramdown
 permalink: pretty
 paginate: 9
 paginate_path: "/page/:num"
