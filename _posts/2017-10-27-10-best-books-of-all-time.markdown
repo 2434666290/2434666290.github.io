@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 有史以来最好的10本书
+title: Ten best books of all time
 date: 2017-10-27 18:09:50 +0300
 img: 17.jpg
 tags: [Books, Hobby]
