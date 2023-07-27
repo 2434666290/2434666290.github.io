@@ -46,33 +46,19 @@ from webdriver_manager.chrome import ChromeDriverManager
 这段代码是导入所需的库和模块，以及相关的函数和类。这些库和模块用于实现数据爬取、网页操作、验证码识别、数据处理、Excel操作和Web应用程序开发。
 
 **具体导入的库和模块如下：**
-
 selenium: 用于进行网页操作和自动化测试。
-
 PIL: Python Imaging Library，用于图像处理和操作。
-
 ddddocr: 用于验证码识别。
-
 streamlit: 用于构建Web应用程序的交互式界面。
-
 base64: 用于处理Base64编码的数据。
-
 requests: 用于发送HTTP请求和处理响应。
-
 lxml: 用于解析和处理HTML/XML数据。
-
 re: 用于正则表达式操作。
-
 urllib.parse: 用于URL编解码。
-
 io.BytesIO: 用于创建内存文件对象。
-
 pandas: 用于数据处理和操作。
-
 selenium.webdriver.chrome.options.Options: 用于配置Chrome浏览器的选项。
-
 selenium.webdriver.chrome.service.Service: 用于配置Chrome浏览器的服务。
-
 webdriver_manager.chrome.ChromeDriverManager: 用于管理和下载Chrome浏览器驱动。
 
 ## 2.2 各个函数模块描述
@@ -437,13 +423,13 @@ def analysis_detail_Url(from_data_1_cannels, html_3, thing):
 **简介：**
 这段代码用于从给定的HTML内容（html_3）中分析表格信息和文本信息，并提取品牌（brand）、供应商（supplier）、中标金额（succeed_price）、招标金额（bidding_price）以及网页中存在的附件信息。
 
-**详细步骤：**
+**详细步骤：** 
 1.	定义了一些变量（brand, supplier, succeed_price, bidding_price，Appendix），用于存储提取的数据。这些变量的初始值为空字符串，将用于存储表格中的特定字段以及其他信息。
 2.	使用XPath从HTML内容中提取所有的<table>元素，这些<table>元素表示网页中的表格。
 3.	遍历每个<table>元素，根据表格的结构和内容将其构造为一个二维列表 table。
 4.	使用正则表达式和关键词匹配来提取品牌、供应商、中标金额和招标金额等字段信息。
 5.	使用XPath从HTML内容中提取所有的文本，并遍历文本来进一步提取品牌、供应商、中标金额和招标金额等字段信息。
-6.	如果网页中存在附件（<a>元素），则提取附件的名称和URL信息。
+6.	如果网页中存在附件（a元素），则提取附件的名称和URL信息。
 7.	返回提取到的品牌、供应商、中标金额、招标金额和附件信息。
 
 ### 2.2.6 获取需要爬取的总页数
