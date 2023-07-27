@@ -2,7 +2,7 @@
 layout: post
 title: 招标网爬虫工具
 date: 2023-07-27 10:11:50 +0300
-img: 17.jpg
+img: 21.jpg
 tags: [Python, Spider]
 author: Li Haopeng
 ---
@@ -11,7 +11,7 @@ author: Li Haopeng
 ## 1.1 爬取需求
 爬取招标网 https://www.zhaobiao.cn/ 中标公告、招标公告等详细信息（如：品牌、供应商、招标金额、中标金额等）。
 
-![]({{site.baseurl}}/images/zhaobiao_spider/1.jpg)
+![]({{site.baseurl}}/images/15.jpg)
 
 ## 1.2 使用工具和环境
 ### 1.2.1 使用工具
