@@ -20,7 +20,7 @@ pycharm
 python 3.9
 
 ## 1.3 爬虫设计思路
-__构建交互页面__ &larr;__获取登录网页cookie__&larr;__获取爬取目标网页总页数__&larr;__分析主网页并筛选网页__&larr;__获取目标数据并保存excel__
+__构建交互页面__ &leftarrow;__获取登录网页cookie__&leftarrow;__获取爬取目标网页总页数__&leftarrow;__分析主网页并筛选网页__&leftarrow;__获取目标数据并保存excel__
 
 ## 1.4 网页分析中可能存在的疑惑
 **如何实现翻页、时间范围等限制条件：**
@@ -28,7 +28,7 @@ __构建交互页面__ &larr;__获取登录网页cookie__&larr;__获取爬取目
 ![页面展示]({{site.baseurl}}/images/zhaobiao_spider/8.jpg)
 2. 找到对应的页面
 ![]({{site.baseurl}}/images/zhaobiao_spider/9.jpg)
-3. 所需要的数据在表单里面**
+3. 所需要的数据在表单里面
 * 可以看到在这个表单数据里面有着定义时间、当年页号、总页数等
 ![]({{site.baseurl}}/images/zhaobiao_spider/10.jpg)
 4. 通过在request里面添加请求体就可以实现想要的条件
