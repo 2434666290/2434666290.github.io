@@ -29,7 +29,7 @@ __构建交互页面__&rarr;__获取登录网页cookie__&rarr;__获取爬取目�
 2. 找到对应的页面
 ![]({{site.baseurl}}/images/zhaobiao_spider/9.jpg)
 3. 所需要的数据在表单里面
-* 可以看到在这个表单数据里面有着定义时间、当年页号、总页数等
+* 可以看到在这个表单数据里面有着定义时间、当前页号、总页数等
 ![]({{site.baseurl}}/images/zhaobiao_spider/10.jpg)
 4. 通过在request里面添加请求体就可以实现想要的条件
 
