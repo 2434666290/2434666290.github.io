@@ -1,42 +1,269 @@
 ---
 layout: post
-title:  Where I seek inspiration
-date:   2017-10-27 10:11:50 +0300
-img: 8.jpg
-tags: [Inspiration, Music, Tips, Guitar]
+title: 厦门之旅plan
+date: 2023-08-07 10:11:50 +0300
+img: 22.jpg
+tags: [厦门, 旅游]
+author: Li Haopeng
 ---
-Literally lomo blue bottle pabst retro snackwave brooklyn taiyaki bitters. Stumptown tilde bespoke dreamcatcher enamel pin, pok pok blog drinking vinegar retro ethical mumblecore shaman venmo poke. Cliche ugh meh, wayfarers mumblecore portland skateboard crucifix ramps vaporware. Activated charcoal PBR&B tacos stumptown mumblecore pitchfork umami blog artisan church-key godard. Shabby chic meh lyft, tilde pork belly echo park +1 tote bag tofu. Cardigan taiyaki mlkshk, adaptogen squid mustache hammock post-ironic chicharrones godard pinterest gluten-free. Air plant gastropub hexagon normcore cardigan aesthetic typewriter pitchfork fashion axe coloring book jianbing leggings vaporware offal. Bushwick palo santo leggings four dollar toast truffaut gluten-free. Fashion axe lo-fi vexillologist kinfolk. Authentic sriracha affogato, tofu polaroid enamel pin poke. Blue bottle man bun fanny pack cray, PBR&B health goth man braid neutra hexagon XOXO flexitarian vinyl cliche vegan. Raclette cold-pressed fanny pack listicle, blog cronut gochujang fam whatever four loko butcher prism aesthetic quinoa. Raclette thundercats gluten-free tbh, ethical adaptogen keffiyeh fam. Swag distillery pop-up offal. Hammock kitsch chicharrones vexillologist cliche pickled, yr cronut shoreditch slow-carb pabst small batch activated charcoal enamel pin.
 
-Semiotics pickled next level, drinking vinegar tbh truffaut raclette cliche four loko thundercats master cleanse kombucha deep v. Enamel pin authentic sartorial, bitters paleo taiyaki vegan salvia. Sriracha knausgaard deep v, irony ramps hammock YOLO raclette. Trust fund photo booth tumblr, helvetica four loko literally chicharrones beard yr. Cronut PBR&B XOXO palo santo tbh craft beer, crucifix tumblr. Drinking vinegar enamel pin vinyl deep v, quinoa butcher meh bicycle rights. Jianbing neutra iceland salvia ennui. Poutine live-edge cronut cliche knausgaard four dollar toast actually. Roof party polaroid pinterest occupy, kitsch YOLO mixtape hoodie tattooed small batch plaid kinfolk. Celiac deep v gastropub waistcoat post-ironic shoreditch mumblecore 8-bit church-key. Try-hard PBR&B aesthetic quinoa, trust fund lomo poke. Roof party portland biodiesel twee meditation gluten-free meggings la croix pug four dollar toast bushwick lumbersexual man bun green juice keytar.
+# 1 Day 1
+## 1.1 前奏
 
-### You need a little dummy text
+### 1.1.1 汇合时间
 
-1. Wayfarers air plant tousled gluten-free synth.
-2. Tumeric taxidermy iPhone, thundercats lo-fi you.
-3. Heard of them deep v art party raclette irony cred vegan tattooed.
-4. Migas four loko tumblr literally subway tile occupy vape.
-5. Fixie copper mug beard, scenester normcore vape.
+此次出行3人，最后一个人达到厦门北站时间4.30，预计6点左右3人可以会和酒店并出发旅程。
 
-Humblebrag sartorial copper mug offal yr crucifix. Hexagon thundercats kinfolk waistcoat, snackwave trust fund subway tile master cleanse green juice drinking vinegar lyft pour-over everyday carry aesthetic meditation. Gochujang jean shorts plaid vinyl man braid. Hell of YOLO quinoa kombucha ethical. Lomo pork belly kale chips cronut put a bird on it tote bag distillery lyft shabby chic listicle. Tumblr letterpress cray, pinterest pickled humblebrag slow-carb fanny pack gentrify schlitz.
+### 1.1. 2 选择酒店
 
-Pop-up aesthetic portland prism salvia unicorn art party leggings heirloom whatever. Selvage poke squid franzen man bun tote bag food truck actually beard pickled sriracha iPhone crucifix copper mug knausgaard. Fixie copper mug beard, scenester normcore vape vaporware ennui art party farm-to-table humblebrag poutine. Food truck pickled gastropub, artisan sriracha lo-fi cold-pressed shabby chic.
+本次出行选择酒店——《厦门天鹅大酒店》
 
-Hell of letterpress gentrify single-origin coffee pork belly. Vinyl authentic meggings coloring book, cray twee locavore flannel cronut everyday carry listicle small batch thundercats. 3 wolf moon before they sold out brunch selvage. Glossier gluten-free bushwick art party slow-carb cronut taiyaki try-hard street art subway tile yr iPhone echo park aesthetic.
+选择原因：位于白鹭洲湖畔，四周被湖畔包围，没有中心路步行街的吵闹，酒店卫生也相对看起来干净点，出行打车都很方便。
 
-![Flower and water]({{site.baseurl}}/images/pages/18.jpg)
+![]({{site.baseurl}}/images/厦门之旅/1.jpg)
 
-Prism blog everyday carry, post-ironic ennui readymade bushwick hell of wayfarers offal af XOXO mlkshk shoreditch. Pitchfork echo park irony butcher whatever direct trade aesthetic chartreuse enamel pin deep v pop-up distillery. Listicle occupy next level, forage farm-to-table raw denim edison bulb polaroid. Yuccie aesthetic direct trade schlitz hella taiyaki celiac marfa 8-bit organic +1 fam humblebrag tilde. Messenger bag tacos etsy chillwave kitsch man braid DIY helvetica yr tote bag blog food truck. Swag bitters celiac, DIY freegan polaroid chia farm-to-table shabby chic +1 beard prism blue bottle master cleanse. Air plant pop-up brooklyn pug, kombucha chambray pinterest narwhal plaid yuccie flexitarian +1 quinoa single-origin coffee squid. Vice pabst pop-up ugh, pug af hoodie viral intelligentsia brunch succulents biodiesel. Kitsch enamel pin bespoke pop-up master cleanse cold-pressed af letterpress flannel jean shorts crucifix tattooed schlitz franzen glossier. Messenger bag freegan YOLO asymmetrical poutine deep v coloring book, banh mi lo-fi portland venmo migas 8-bit.
+## 1.2 旅行方案
 
-> Health goth four dollar toast keytar retro hoodie, af single-origin coffee meditation air plant plaid aesthetic hella vegan.
+由于汇面出行时间预计在晚上6点，故直接出发就餐。
 
-Bushwick try-hard occupy crucifix before they sold out craft beer. Mixtape brooklyn roof party tilde vape. Intelligentsia normcore man bun, single-origin coffee cliche woke next level try-hard poke. Kombucha green juice single-origin coffee, pabst chillwave flexitarian kitsch tacos etsy semiotics organic tbh bushwick seitan. Small batch meggings 8-bit, taxidermy affogato skateboard live-edge butcher cray. Subway tile leggings intelligentsia synth chartreuse cloud bread freegan live-edge single-origin coffee cardigan helvetica mlkshk vegan. Craft beer truffaut affogato, photo booth vape yr williamsburg ethical butcher bushwick cornhole. Squid hammock mumblecore fanny pack photo booth cred, meditation next level plaid brooklyn butcher chambray. Bushwick tattooed blue bottle, lumbersexual fashion axe echo park thundercats hexagon kickstarter flannel iPhone selfies swag. Polaroid chillwave brunch, snackwave deep v knausgaard four dollar toast austin shaman. Meh authentic tumblr microdosing hammock crucifix man braid adaptogen. Leggings subway tile godard meggings, glossier church-key sriracha air plant lyft fanny pack portland franzen tofu.
+### 1.2.1 中山路步行街/八市
 
-YOLO live-edge marfa, cardigan hot chicken hella unicorn raclette try-hard bushwick twee hoodie. Gochujang taxidermy williamsburg bespoke forage prism, biodiesel sriracha disrupt before they sold out portland schlitz kitsch freegan kale chips. Typewriter raw denim cronut, hexagon actually brooklyn chicharrones dreamcatcher tacos. Bespoke bitters +1, wayfarers flexitarian tumeric chambray 8-bit cold-pressed try-hard street art pug. Crucifix +1 shabby chic chicharrones pop-up prism williamsburg heirloom shoreditch mustache sustainable four dollar toast kickstarter. Thundercats four dollar toast drinking vinegar bitters. +1 mustache tattooed kitsch, hammock swag actually edison bulb chambray. Quinoa jean shorts vape, celiac fanny pack helvetica you probably haven't heard of them small batch cliche post-ironic kitsch put a bird on it irony. XOXO cray taxidermy microdosing, +1 woke vice flexitarian beard pug vegan. Flannel health goth swag tofu distillery skateboard. Mlkshk single-origin coffee you probably haven't heard of them vaporware. Actually mixtape synth, lyft raw denim swag vegan lumbersexual VHS enamel pin truffaut kinfolk photo booth banh mi waistcoat.
+美食：
 
-Skateboard butcher hexagon fashion axe bicycle rights scenester direct trade glossier drinking vinegar edison bulb leggings bitters marfa cred. Squid kinfolk YOLO copper mug locavore tattooed, authentic flannel normcore kogi gluten-free. Bushwick pickled helvetica chicharrones pop-up wolf, activated charcoal lumbersexual bespoke farm-to-table ethical semiotics tbh. Gentrify 8-bit live-edge, artisan man braid mustache cliche vice. Banh mi small batch yr meditation organic, cronut fashion axe. Forage plaid helvetica post-ironic hella. Raw denim edison bulb live-edge austin. Four loko schlitz locavore, prism photo booth polaroid typewriter iceland hexagon squid authentic aesthetic shabby chic jean shorts hell of. Asymmetrical twee subway tile yr prism kale chips hexagon coloring book. Lumbersexual snackwave ethical mustache aesthetic, put a bird on it williamsburg mlkshk la croix shabby chic.
+* 老思西鸡蛋汉堡/老巷口鸡蛋汉堡⭐️⭐️⭐️⭐️⭐️
+* 月华沙茶面
+* 美环素菜
+* 阿杰五香
+* 钟丽君满煎糕
+* 阿吉仔⭐️⭐️⭐️⭐️⭐️：八市出来附近就能看到厦门本地老品牌阿吉仔啦，主要卖馅饼的小店，推荐【马蹄酥】【椰子饼】，便宜又好吃，就是要排队。也可以到附近的吉治百货逛逛哦，这两家是一个品牌
+* 老郭油葱糖薄饼⭐️⭐️⭐️⭐️⭐️
+* 老思西沙茶烤肉店
+* 老思西沙茶烤肉店⭐️⭐️⭐️⭐️⭐️
+* 金家港海鲜大排档（上过央视）：位于中山路步行街47号的巷子里，较接地气的一家大排档。特推招牌龙虾、椒盐皮皮虾，大众点评必吃榜的商户。
+* 花姐海鲜餐厅（厦门八市总店）：这是家较地气且性价比极高的海鲜餐厅，食材新鲜，味道鲜美，主打招牌香辣蟹、避风塘富贵虾等深受食客欢迎。
+* 大中沙茶面：一家藏在胡同里的30年小店，也是吴宗宪来厦必吃的美食，汤头浓郁，怪不得那么多本地人强烈推荐！
+* 闽南麻糍冰激凌（中山路独家)：～位置在厦门中山路49–1巷口，这是我吃过最好吃的麻糍冰淇淋，谁会拒绝像雪媚娘一样的糯叽叽皮薄料厚的美食呢。
+* 庆君汤包
 
-Mixtape jianbing kombucha trust fund. Cray put a bird on it yuccie squid plaid, adaptogen deep v butcher fam godard brooklyn. Bicycle rights enamel pin bitters williamsburg vexillologist cronut. Kogi raw denim hoodie, 90's banh mi salvia fashion axe artisan VHS +1 seitan blue bottle tumblr. Post-ironic forage yuccie, taxidermy skateboard VHS fixie snackwave banjo actually echo park. Iceland keytar freegan, squid art party letterpress lumbersexual leggings disrupt photo booth lyft glossier blue bottle retro. Biodiesel hammock asymmetrical selvage. Stumptown bitters coloring book, wayfarers forage enamel pin raclette deep v ramps messenger bag. Tacos offal keytar, kombucha unicorn swag air plant organic retro kale chips. Vice cloud bread mustache, meh kale chips gochujang fixie.
+![]({{site.baseurl}}/images/厦门之旅/2.jpg)
 
-Glossier copper mug four dollar toast stumptown, mlkshk schlitz coloring book chia kogi prism organic pok pok kinfolk street art umami. Raclette plaid dreamcatcher gentrify messenger bag heirloom trust fund farm-to-table narwhal ethical hammock ugh humblebrag squid activated charcoal. Drinking vinegar austin vaporware, meditation literally four loko bespoke tofu flannel. Letterpress enamel pin +1 small batch gluten-free. Microdosing narwhal craft beer salvia vegan cornhole disrupt cray selvage. Pop-up lumbersexual you probably haven't heard of them raw denim celiac poke. Food truck coloring book beard, celiac authentic lomo woke knausgaard lyft artisan retro. Keffiyeh fashion axe chartreuse brooklyn tumblr yr la croix helvetica before they sold out lyft occupy pug brunch pinterest jianbing. Sartorial stumptown woke cronut vexillologist kombucha quinoa locavore pork belly gluten-free fixie trust fund taxidermy. Cloud bread adaptogen craft beer subway tile. Meggings chambray retro venmo.
+![]({{site.baseurl}}/images/厦门之旅/3.jpg)
 
-Whatever mustache jean shorts, vinyl narwhal hashtag humblebrag lo-fi thundercats poutine +1 quinoa XOXO. Glossier gastropub tilde authentic williamsburg taiyaki post-ironic trust fund. Sustainable wolf ethical hoodie chillwave. Hammock snackwave slow-carb whatever. Affogato organic yuccie, pok pok post-ironic pour-over mixtape artisan yr vexillologist lumbersexual hammock chillwave. Godard pok pok schlitz truffaut. Mumblecore tbh jean shorts godard. Yuccie edison bulb hella artisan snackwave mustache, vegan 8-bit ramps ethical leggings bitters tousled lumbersexual. Wolf tilde hella prism. Direct trade tacos man braid, truffaut asymmetrical fanny pack swag. Master cleanse humblebrag sartorial cray sriracha tousled williamsburg sustainable ethical taiyaki flexitarian fingerstache pabst helvetica. Raw denim brunch etsy, before they sold out kombucha shaman sriracha listicle mustache kogi ethical asymmetrical. Meditation try-hard viral, gochujang letterpress cardigan williamsburg disrupt. Distillery selfies swag, gochujang cloud bread taiyaki tofu jianbing.
+![]({{site.baseurl}}/images/厦门之旅/4.jpg)
+
+![]({{site.baseurl}}/images/厦门之旅/5.jpg)
+
+![]({{site.baseurl}}/images/厦门之旅/6.jpg)
+
+**晚上的时间基本就在中山路和八市附近逛逛，时间充裕的话环岛转一圈也可**
+
+
+
+# 2 Day 2
+## 2.1 旅行方案
+
+### 2.1.1 厦门植物园
+
+✅植物园景点开放时间
+🔶景区开放时间：6:30～18:00
+🔶观光车营运时间：8:00～17:20（5月~10月）；8:00～17:00（10月~4月）
+🔶雨林世界喷雾时间：
+9:30～11:30；14:30～16:30 （5月~10月）
+9:00～11:00；14:00～16:00 （10月~4月）
+🔶钟鼓索道时间：8:30～17:30
+
+✅关于买票？购票方式？票价💰？
+1️⃣植物园进园门票：成人30元，儿童半价15元/人（7～18岁），6周岁、身高1.4以下免费
+2️⃣钟鼓索道门票：成人80元/人，儿童40元/人（低于1.2的免票，现场测量身高）
+3️⃣购票方式：厦门植物园GZH、现场买票皆可
+
+✅关于热门景点路线？哪个门进？
+🌟路线1：植物园西门进——南洋杉疏林草坪——雨林世界——多肉植物——花卉园——折返西门出（步行，适合精选游）
+🌟路线2（优选）：植物园西门进——南洋杉疏林草坪站——雨林世界——多肉植物——花卉园——西山园——南门出（建议坐观光车，通票，打完卡继续上车，省力）
+🌟路线3：植物园南门进——西山园——花卉园（欧式庄园）——南门出（步行，适合精选游，打卡“莫奈花园”）
+
+✅游玩注意事项
+🔺雨林世界记得看准喷雾时间去
+🔺记得带上防晒、防虫物品，里面没有餐厅，带够吃的和水
+🔺钟鼓索道检票后车票别扔，回程的时候工作人员会再次检票‼️
+🔺节假日一定提前到，否则排队很久
+
+### 2.1.2 钟鼓索道
+
+🌈实用信息：
+
+* 需要提前在携🍊购票，暑假基本要提前一周购票（隐藏信息是：如果实在买不了，可以考虑闲🐟购票）
+* 第三方订票平台，只能买成人票，成人票为80元/人，小朋友的票需要现场补，记得带身份证
+* 夏季购票最晚一趟是16:15-16:45，亲测在16:45压线到达，都可以进入索道，但现场需要排队，我们坐上缆车是17点20过后，6点缆车下来后，现场还有小部分人尚未上车
+* 缆车没有空调，也没有窗户，如果遇上没风的日子，会很闷热，建议带上小风扇或扇子
+* 夏天基本到下午6点，太阳都是晒的，我们到后半段都被晒到肉痛，需要打伞
+* 记得带上水，在太阳底下坐足40分钟，真的会很渴
+* 钟鼓索道就在万石植物园旁边，傍晚时分会非常堵车，且附近停车和打车都略为困难（停车只能停30秒，很多司机都直接拒载）
+
+全长1000多米的索道，一共有82个吊厢，往返时长大概要40分钟，是厦门空中唯一最佳的动态观景项目
+
+![]({{site.baseurl}}/images/厦门之旅/7.jpg)
+
+### 2.1.3  南普陀寺
+
+🎫门票
+是免费🆓哒，只需要在vx小🍊序搜索『南普陀寺预约服务平台』提前几天预约即可（预约之后其实在当天的任意时间段都可以进喔 ）
+📣流程:
+1⃣领香→ 2⃣净手→3⃣点香→4⃣殿前敬香
+注意事项 🔴
+寺庙会免费赠一支香，在一进门左手边增香处免费领。
+进店需要从侧门进，正门是给出家人走的，进店之后帽子是需要摘掉的，里面的各种宝殿和佛像拍照前需要先拜一下。
+进入寺庙不宜露肤度较高的衣服哦，要穿得得体简约一些😇。
+ㅤ
+🍜餐饮
+✅寺内有两家素食馆:1⃣海会楼素面馆2⃣普照楼素菜馆
+✅两家饮料店:1⃣入口处的普茶2⃣出口的咖啡店
+ㅤ
+南普陀寺的较为出名的是素饼🍥，可作为伴手礼一共有7种口味，软软糯糯的很好吃，价格也实惠，本人最喜欢南瓜味道的，💰在15~20之间，而且均有独立包装。
+ㅤ
+🕹盖章
+天王殿左行50米就可以看到邮局了，有许多文创，一共有六个章，可以免费盖喔
+ㅤ
+📍地点:厦门思明区南路515号
+🕐开放时间 ：8:00-17:00
+🚗交通:公交出行  厦大/厦大西村公交站    需要走地下人行通道
+
+
+
+### 2.1.4 厦门大学
+
+**暂定，因为我想厦大打打球**
+
+![]({{site.baseurl}}/images/厦门之旅/8.jpg)
+
+
+
+# 3 Day 3
+## 3.1 旅游方案
+### 3.1.1 鼓浪屿
+
+✅【鼓浪屿半日游总路线】
+⭐路线1：内厝澳码头——美华沙滩——港仔后海滨浴场——菽庄花园——大德记浴场——皓月园——风琴博物馆——龙头路小吃街——最美转角——三丘田码头
+
+⭐路线2：内厝澳码头——美华沙滩——港仔后海滨浴场——日光岩——龙头路小吃街——最美转角——三丘田码头
+
+⭐路线3：三丘田码头——最美转角——龙头路小吃街——皓月园——菽庄花园——日光岩——美华沙滩——内厝澳码头
+
+✅总路线意见：
+🔸1、个人推荐路线1，主要原因是不想花钱!风景基本都看到了，日光岩没必要花50💰看日落，更建议去山海健康步道看‼️
+🔸2、真正值得花钱的景点：菽庄花园、皓月园，超过30门票的都觉得贵
+🔸3、网上大部分攻略都是路线3，其实上内厝澳码头、三丘码头都差不多，有些攻略是黄🐂、旅行社刻意制造恐慌囤票，好卖高价船票和门票❗️别信忽悠，只要能上岛，按图中正反走都可以！
+
+✅鼓浪屿景点门票
+❤️ ，50元/人，时间8:00～18:00
+❤️ ，30元/人，时间8:00～18:00
+❤️ ，15元/人，时间7:30～18:00
+❤️，15元/人，时间8:15～17:45
+❤️ ，免费，全天
+
+✅鼓浪屿游玩注意事项‼️
+▶️船票记得提前1～3天预定，进入“厦门轮渡+”预定，35元普通船票（往返）和50元豪华船票基本一样的，别花冤枉钱！
+▶️注意人身财务安全，朋友在厕所绑了个头发，放下手机一会儿，就被拿了，报案时还有三个妈妈丢失小孩查监控……重点‼️
+▶️不要轻易相信鼓浪屿的导游，很多都是和商家合作的
+▶️出岛优先考虑“轮渡码头”靠近中山路
+
+✅鼓浪屿美食
+1️⃣叶氏麻糍，📍龙头路145号，人均18💰
+2️⃣厚生林甜汤，📍龙头路105号，人均20💰
+3️⃣蛋满灌，📍龙头路175号，人均15💰
+4️⃣龙头鱼丸店，📍龙头路183号，人均18💰
+🔺以上均是性价比高的小吃老店，正餐贵！就不展开了，原谅月光💰打工人！
+
+
+
+### 3.1.2 双子塔
+
+双子塔位于🏝鼓浪屿对面，登上双子塔后，这座海上公园尽收👀眼底，不要傻傻😃的买票去云端的厦门（🤔🤔求生欲：喜欢极限运动的当我没说）
+👉🏻攻略：美团上找一家你喜欢的🍴餐厅，如果单纯是看风景🌅不吃饭，可以找一家网红打卡店，点一些饮料🍧小食🧁便可以悠然自在的度过一个精致的下午茶时光，感受黄昏的🤞温柔。
+👉🏻附上我去的👇🏻
+店名 ，人均50+
+地址位于A座52楼，楼下刷身份证登记👉🏻进入写字楼，运气好🙋🏻‍♀️可以坐到在窗边🏙的位置，或者是花些时间等待一会🤷🏻‍♀️
+👵🏻碎碎念：过来旅游的姐妹推荐💪你一条路线
+①集美学村-石鼓路-龙舟池🐲
+②八市-猫🐈街-沙坡尾
+③鼓浪屿-双子塔-厦门书法广场（海边）
+
+### 3.1.3 沙坡尾
+
+到了沙坡尾别再沿街溜达 点赞收藏这一篇 一天玩转沙坡尾～ 美食+拍照+网红景点
+1️⃣ 沙坡尾彩虹墙
+非常标志性的一处打卡点📍：艺术西区二楼天台
+艺术西区晚上去有很多市集小摊 很好拍也很好逛！！
+2️⃣酒场SAKE NOMI BAR
+日式居酒屋 位于十字路口 门口的斑马线抓拍分分钟带入到日本街头 人很多车也很多 拍照时注意安全也不要堵塞交通噢📍：思明区沙坡尾大学路39号（蜂巢山路交叉路口）
+🍽️:拍完SAKE NOMI BAR对面有一家王记麻糍点心坊 便宜好吃 非常推荐 来厦门怎么能不吃麻糍 ！！📍：思明区夏港街道蜂巢山路40-193
+3️⃣厦门的查查斯
+店铺门头超级好拍 里面有很多好看的小玩意 可以来逛逛拍拍～📍：思明区夏港永安街1号
+🍽️：查查斯旁边有一家马来沙爹 是赵露思新剧《偷偷藏不住》的取景地哦 牛肉串好吃 可以冲 📍：思明区民族路91-10
+4️⃣百万万BRAVO
+饭点的时候人很多需要排队 早点去呀！店铺风格是美式复古工业风的汉堡店 她家作为网红店里为数不多能够同时满足味道和颜值的店铺 汉堡 甜品 小吃都不错值得推荐 人均大几十 丰俭由人📍：思明区大学路129-103号
+5️⃣tük tük 泰式大排档
+他们家真的是在小🍠上风非常大 看着博主们拍出来的照片真的非常吸引人 但是！不推荐不推荐❌❌ 首先店铺可以落座的位置不多 请的店员比去吃饭的顾客还多 很多菜品都已经被下架了 环境实在是不太好 落座之后全是苍蝇围绕在周围 烦都烦死了 来拍照打卡可以 上菜慢 味道也一般 觉得他家有点营销过度了 📍：思明区大学路38-104凉房前50米 （背街木栈道一侧)
+6️⃣山楂与薄荷
+来吃冰的！很出片!主营手捧冰和冰粉 人很多人很多人很多 他家的推荐可以看我另一篇有具体写 📍：思明区大学路195号
+7️⃣朴辛韩国大排档
+厦门学子都很爱的平价韩式料理 沙坡尾人气超高 店里环境也韩韩的～ 霓虹灯和经典不锈钢餐具 拍照打卡仿佛置身在韩国📍：思明区大学路185号
+沙坡尾木栈道一侧有很多风格独特的店铺可以去探 从那边拍照双子塔角度很好
+
+# 4 Day 4
+## 4.1 旅游方案
+### 4.1.1 黄厝沙滩
+
+🌅早：4:30-6:30
+三点多起床 四点多出发 四点半的时候天还是黑的 五点就亮多了
+建议大家都可以去看一下从黑到亮的海 挺神奇的
+有一点点遗憾 就是下雨没有橙色日出
+
+### 4.1.2 曾厝垵
+
+我是土生土长的曾厝垵人，见证了曾厝垵从宁静小渔村➡️文艺小渔村➡️文创村➡️繁华美食街的锐变。变化之大我至今感慨万千，而且还一直在变。网上对曾厝垵的评论也褒贬不一，最多的槽点是商业化，人挤人，东西贵，细想一下这不是所有旅游景点的通病吗？我觉得这不是重点！做为环岛路的最佳落脚点，人气旺自然有他的道理，重点是来这里要🌟吃好🌟住好🌟心情好！
+
+🌈关于吃：图1⃣️是美食地图（两条路线），一图在手基本上可以逛吃整个村。
+
+提示⚠️ ➊ 问好价格再买➋多比较 一次别买太多➌花茶，台湾烟，开蚌取珠不建议购买➍伴手礼选择阿吉仔馅饼，鼓浪屿馅饼，南普陀素饼，都是厦门老字号
+
+🌈关于住宿：厦门的民宿也就三个地方，鼓浪屿、中山路，曾厝垵。鼓浪屿不推荐，除非有足够的时间或者有特别情怀，最推荐还是曾厝垵，因为离海近，交通也方便，民宿选择也多。🔔推荐LULI路里民宿，在人不多的教堂街比较安静，出巷子就是热闹的国办街很方便。有2米的大床和1.5米的标间，价格很亲民，适合学生党。
+
+🌈关于拍照：在夜市拍照最好找灯光亮堂，广告牌多一点的地方，这样的光线下拍照人物和食物会很有氛围感，最好放大两倍再拍。
+
+🌈关于信仰：曾厝垵独有的“圣妈崇拜”一定要了解一下！这是一个很感人，很正能量的传说（图2⃣️有故事）；
+✔问事业 ✔问姻缘 ✔问学业  祈求平安顺遂
+都可以来圣妈宫拜拜，有求必应！圣妈可是很准的。
+
+🌈厦门曾厝垵本地人，不定期分享厦门旅游攻略，在曾厝埯开民宿，欢迎来住㊗️
+
+![]({{site.baseurl}}/images/厦门之旅/9.jpg)
+
+
+
+**懒得写了**
+
+参考：
+
+Day1:鼓浪屿-植物园-钟鼓索道-八市&中山路
+鼓浪屿只有人少才能感到她的美，所以一定早点冲，岛上犄角旮旯都很美，适合慢悠悠晃。
+下午去植物园，一定赶在喷雾时间到达“雨林世界”区域，丁达尔效应美哭，喷雾夏天（5.1-10.7）上午8:30-10:30，下午3:00-5:00。秋冬（10.8-4.30）上午9:00-11:00，下午14:00-16:00。多肉植物区也必去。
+出植物园西门左手紧邻钟鼓索道，查好日落时间，在黄昏时分坐上缆车，日落➕缆车➕大海➕城市，很绝！以上三个地方之前都写过详细攻略，有需要往前翻翻。
+ 晚上去八市吃晚饭，比较推荐阿杰炸五香、沙茶面、腌芒果、炸面包以及芋泥各种，尚青海鲜爆炒老蛏强推👍🏻
+饭后可以去中山路步行街消消食，这种步行街就属于不去遗憾去了后悔的地方哈哈，压马路还是不错的。
+
+Day2:观音山&深夜酒场-黄厝沙滩-山海步道&增厝垵&音乐广场-双子塔&沙坡尾
+这是以大海为主题的一天。观音山是一个海边商业区，有一些沙滩娱乐项目，深夜酒场是这里的一家店，旁边通往大海的路非常非常动漫，好多人拍照打卡。
+黄厝沙滩非常长，沙滩边有很多树，很文艺，适合晃悠。
+音乐广场也是特别出片的地方，大海➕长椅➕咖啡摊➕大树。增厝垵离音乐广场很近，商业化蛮重的小吃街，可去可不去。山海步道一定要去！解锁大海的另一种打开方式，最好在日落时分走到盼归塔，感受天空和大海的极致浪漫。
+晚上去双子塔和沙坡尾这一片逛吃，猫街也在这里，很多年轻人，甜品不踩雷。
+
+Day3:五缘湾坐帆船-集美学村-清水宫（顺序可根据行程调整）
+没坐过帆船的小伙伴可以体验一下，很新奇。如果是没有风的天气就不太刺激啦。
+坐1号线“海上列车”去集美学村。嘉庚公园、龙舟池、文化创意园和十里长堤都值得打卡，建议留半天时间。这里好吃的太多啦，主要是各种甜品个炸物。
+喜欢拍照或者路过机场附近的小伙伴，可以冲一下清水宫，庙宇➕飞机的机位在别的地方真没见过。闽南的庙有种极繁之美，我好爱。
+
+
+
+![]({{site.baseurl}}/images/厦门之旅/10.jpg)
+
